@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=300,400,500,600.700&isplay=swap');
+
+body{
+    margin:0;
+    font-family: 'Poppins' , sans-serif;
+} 
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.home {
+    min-height: 100vh;
+    background-image: url("images/hero/1.jpg");
+}
